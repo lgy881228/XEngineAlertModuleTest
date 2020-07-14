@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-ModuleExample/Pods-ModuleExample-frameworks.sh
+${BUILT_PRODUCTS_DIR}/XEngineAlertModuleTest/XEngineAlertModuleTest.framework
+${BUILT_PRODUCTS_DIR}/dsBridge/dsBridge.framework
